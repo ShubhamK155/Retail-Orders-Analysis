@@ -6,8 +6,8 @@
 # Retail-Orders-Analysis
 
 • Extracted data from RESTful APIs, performed data cleaning and data transformation to ensure accuracy
-and integrity for efficient analysis < br / >
+and integrity for efficient analysis
 • Deployed an ETL pipeline to optimize data integration and transformation, enhancing data quality and
-analysis capabilities < br / >
+analysis capabilities 
 • Performed comprehensive exploratory data analysis to uncover key insights, driving informed decision-making
-and strategic planning < br / >
+and strategic planning 
